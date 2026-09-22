@@ -2,12 +2,12 @@
 
 | Requirement | Contract path | Automated proof | Live proof | Status |
 | --- | --- | --- | --- | --- |
-| Immutable full-SHA sources | `_url`, `open_case`, `submit_revision` | moving ref and foreign host rejection | pending deployment | LOCAL PASS |
-| One attributed finding per criterion | `_normalize`, `_inspect` | lifecycle and forged quote tests | pending deployment | LOCAL PASS |
-| Validator refetches both sources | `_inspect.validate` | changed snapshot rejection | pending deployment | LOCAL PASS |
-| Validator rejects an overstated result | semantic validator | false validator decision test | pending deployment | LOCAL PASS |
-| Owner-only revision submission | `submit_revision` | unauthorized caller test | deployed source match | LOCAL PASS |
-| Immutable revision history | revision state checks | duplicate and replay tests | pending deployment | LOCAL PASS |
+| Immutable full-SHA sources | `_url`, `open_case`, `submit_revision` | moving ref and foreign host rejection | two source receipts stored | PASS |
+| One attributed finding per criterion | `_normalize`, `_inspect` | lifecycle and forged quote tests | finalized READY result with two quotes | PASS |
+| Validator refetches both sources | `_inspect.validate` | changed snapshot rejection | finalized inspection plus source match | PASS |
+| Validator rejects an overstated result | semantic validator | false validator decision test | deployed reviewed source | PASS |
+| Owner-only revision submission | `submit_revision` | unauthorized caller test | deployed source match | PASS |
+| Immutable revision history | revision state checks | duplicate and replay tests | finalized open, submit, inspect lifecycle | PASS |
 
 ## Mechanism comparison
 
