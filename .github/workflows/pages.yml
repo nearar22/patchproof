@@ -26,7 +26,7 @@ jobs:
           GITHUB_PAGES: "1"
           NEXT_PUBLIC_GENLAYER_RPC_URL: https://studio-next.genlayer.com/api
           NEXT_PUBLIC_GENLAYER_CHAIN_ID: "61997"
-          NEXT_PUBLIC_CONTRACT_ADDRESS: "0x432Fc4233B0946d0cB444D75D573e18bA24979B0"
+          NEXT_PUBLIC_CONTRACT_ADDRESS: "0x64C66fc284715b8F15bD7D216c7f02bb7ACcF3cC"
         run: |
           npm ci
           npm run lint
