@@ -4,7 +4,7 @@
   "chainId": 61997,
   "rpcUrl": "https://studio-next.genlayer.com/api",
   "explorerUrl": "https://explorer-studio-dev.genlayer.com",
-  "webAppUrl": "https://nearar22.github.io/patchproof/",
+  "webAppUrl": "https://patchproof.pages.dev/",
   "repositoryUrl": "https://github.com/nearar22/patchproof",
   "contractAddress": "0x64C66fc284715b8F15bD7D216c7f02bb7ACcF3cC",
   "contractSourceSha256": "83bc3e5745939689d8c892e3b7fcc6e30450ad295b21daae75a960aec90e21c6",
