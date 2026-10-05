@@ -33,3 +33,10 @@ Deploy with `GENLAYER_PRIVATE_KEY` set and `npm run deploy:contract`. Then set `
 
 PatchProof uses a code-review workbench rather than a landing-page dashboard. Revisions form a vertical stack, the active rubric occupies the main surface, and validator evidence appears beside each acceptance criterion. Its voice is terse and release-oriented: spec, patch, finding, receipt.
 
+## Verified Studio Next deployment
+
+- Contract: [`0xf91ABdb7c332b7fF1A0454DC79303c1595A09f93`](https://explorer-studio-dev.genlayer.com/address/0xf91ABdb7c332b7fF1A0454DC79303c1595A09f93)
+- Deployment transaction: [`0x32c806ab...f3db9893`](https://explorer-studio-dev.genlayer.com/tx/0x32c806ab7761e9cb0972442cd5b15e5d4b9c0b1ec5a8e755d203658af3db9893)
+- Live review case: `patchproof-proof-1791190637`
+- Final inspection: [`0x42becaaa...4467da78`](https://explorer-studio-dev.genlayer.com/tx/0x42becaaa8673240d8ba673db9e4bf656ae92b9a2bc1216ab641847df4467da78), `FINALIZED`, `MAJORITY_AGREE`, `READY`
+- Exact deployed-source SHA-256: `9503bc0d0cf5e60eca1c6c5f24cc06143722f4838de19cd58db84536c7cb9ee9`

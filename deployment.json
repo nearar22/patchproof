@@ -6,15 +6,16 @@
   "explorerUrl": "https://explorer-studio-dev.genlayer.com",
   "webAppUrl": "https://patchproof.pages.dev/",
   "repositoryUrl": "https://github.com/nearar22/patchproof",
-  "contractAddress": "0x64C66fc284715b8F15bD7D216c7f02bb7ACcF3cC",
-  "contractSourceSha256": "83bc3e5745939689d8c892e3b7fcc6e30450ad295b21daae75a960aec90e21c6",
+  "contractAddress": "0xf91ABdb7c332b7fF1A0454DC79303c1595A09f93",
+  "contractSourceSha256": "9503bc0d0cf5e60eca1c6c5f24cc06143722f4838de19cd58db84536c7cb9ee9",
   "sourceMatchesDeployment": true,
-  "deploymentTransaction": "0x18357cb9688b0c7f1b4e92b33db1f33255f963c54eb8079f46b4c7ea892d2763",
-  "demoCase": "author-safety-audit",
+  "deploymentTransaction": "0x32c806ab7761e9cb0972442cd5b15e5d4b9c0b1ec5a8e755d203658af3db9893",
+  "sourceCommit": "618572eb474623909a5ed107f0bb320fd757702d",
+  "demoCase": "patchproof-proof-1791190637",
   "liveProof": {
-    "openTransaction": "0x4bc3d8ae151978036100dd994232df99967cce1c59793053dc815b6c27f1b10c",
-    "submitTransaction": "0x4cb51eff2de14cf6ecdfab2c655c3122efa7e1c70a9b1c8deb226b6d4ce5c28f",
-    "inspectTransaction": "0x89587a850e72d8b54c22de9e656d9fe493fcb25a7a02b06ac85b93f22b7d32c2",
+    "openTransaction": "0xbda98ea2bc8ca0aeed91a086656f3e77bf4d7dede3e8a3c00ae9dee1270678c7",
+    "submitTransaction": "0xc4890c8bb80ad9bdfcbd5bf52b2045546fe0ba1684a48b0947d1104c9f0e9532",
+    "inspectTransaction": "0x42becaaa8673240d8ba673db9e4bf656ae92b9a2bc1216ab641847df4467da78",
     "consensus": "MAJORITY_AGREE",
     "storedStatus": "READY"
   }
