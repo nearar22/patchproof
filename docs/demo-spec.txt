@@ -1,0 +1,6 @@
+PatchProof demo acceptance specification
+
+Criterion 1: Normalize and validate every wallet address before storing an author permission.
+Criterion 2: Only the board owner may add or remove an author.
+
+Both criteria must be implemented directly in the submitted source. Comments and claims are not implementation evidence.
